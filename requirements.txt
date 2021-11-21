@@ -3,4 +3,4 @@ pandas
 matplotlib
 pyshp
 shapely
-xarrays
+xarray
