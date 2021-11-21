@@ -6,3 +6,4 @@ shapely
 xarray
 openpyxl
 netcdf4
+dask
